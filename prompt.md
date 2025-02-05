@@ -61,6 +61,8 @@ Please create a clear, concise, and professional Subjective section of a SOAP no
 - Document pertinent positives and negatives
 - Include important symptom patterns
 
+Please make the output in bullet points with correct headings for conciseness. Please condense information to keep the most notable details and relevance. Prioritize notes to emphasize total health outcomes vs specific details. 
+
 ## Example Input Template:
 
 SUBJECTIVE
